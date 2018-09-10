@@ -1,0 +1,15 @@
+[package]
+name = "learn"
+version = "0.1.0"
+authors = ["Jason <m.jason.liu@outlook.com>"]
+
+[dependencies]
+
+[[bin]]
+name = "mthread"
+
+[[bin]]
+name = "main"
+
+[[bin]]
+name = "demo"
