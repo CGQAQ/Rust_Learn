@@ -1,3 +1,5 @@
+// learn to multithread 
+
 use std::sync::{
     Arc,
     Mutex,
